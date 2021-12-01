@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: スクールガールストライカーズ2 アドベントカレンダー 2021
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/SchoolGirlStrikersAdventCalendar2021" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kawa0x0A
 github_username:  kawa0x0A
 
@@ -48,3 +48,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+github: [metadata]
