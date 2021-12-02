@@ -7,7 +7,7 @@ title : 降神あから誕生日
 
 本日12月2日は降神あからのお誕生日です。おめでとう!
 
-![お誕生日おめでとう]({{ site.baseurl }}/assets/images/posts/20201202_1.PNG)
+![お誕生日おめでとう]({{ site.baseurl }}/assets/images/posts/20211202_1.PNG)
 
 ~夏のアロハコスから変えるのを忘れていたのでちょっと寒そう~
 
