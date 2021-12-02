@@ -18,17 +18,17 @@ title : 降神あから誕生日
 # キラルヘア
 普段のショートヘアからガラリとイメチェンしたロングヘアも素敵。
 
-![キラルヘア]({{ site.baseurl }}/assets/images/posts/20201202_2.PNG)
+![キラルヘア]({{ site.baseurl }}/assets/images/posts/20211202_2.PNG)
 
 # おやすみヘア
 ゆったりとしたショートヘアも良き。
 
-![おやすみヘア]({{ site.baseurl }}/assets/images/posts/20201202_3.PNG)
+![おやすみヘア]({{ site.baseurl }}/assets/images/posts/20211202_3.PNG)
 
 # デフォルトヘア
 もちろん標準のデフォルト髪型も良きです。
 
-![デフォルトヘア]({{ site.baseurl }}/assets/images/posts/20201202_4.PNG)
+![デフォルトヘア]({{ site.baseurl }}/assets/images/posts/20211202_4.PNG)
 
 ---
 
