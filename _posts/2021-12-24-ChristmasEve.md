@@ -9,7 +9,7 @@ title : クリスマスイブ
 
 (今年もスクスト内では背景がクリスマス仕様に変わっていました)
 
-![1]({{ site.baseurl }}/assets/images/posts/20211223_1.PNG)
+![1]({{ site.baseurl }}/assets/images/posts/20211224_1.PNG)
 
 明日はクリスマスですね。
 
